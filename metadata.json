@@ -1,0 +1,5 @@
+{
+  "name": "AstraScope Project Management Dashboard",
+  "description": "A comprehensive light-mode dashboard for space program monitoring, tracking launch vehicles, satellite infrastructure, and user-funded projects with hierarchical access and budget oversight.",
+  "requestFramePermissions": []
+}
